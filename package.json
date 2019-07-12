@@ -1,0 +1,16 @@
+{
+  "name": "cart-products",
+  "version": "1.0.0",
+  "description": "sample products json data using json-server",
+  "main": "index.js",
+  "repository": "git@github.com:Chandu4221/products-json.git",
+  "author": "Chandu4221 <chndraja@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "json-server --watch db.json"
+  },
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}

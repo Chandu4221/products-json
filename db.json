@@ -1,0 +1,152 @@
+{
+  "productInfoList": [
+    {
+      "productBaseInfo": {
+        "productIdentifier": {
+          "productId": "6c3ccef8-8758-42a6-baa8-f33f7d6f2650"
+        },
+        "productAttributes": {
+          "title": "Aston Martin Toy Car",
+          "productDescription": "Motormax 1:24 Diecast Car 2017 Chevy Camaro ZL1 is From Satin Paint Collection. Die-cast metal body with plastic parts. Detailed view of the Dashboard. Openable doors. Dicky with detailed view of the interior. High quality paint of Matt finish. Colour Matt Grey.",
+          "imageUrls": {
+            "300x300": "/images/products/aston_martin/aston_martin-300_x_300.png",
+            "600x600": "/images/products/aston_martin/aston_martin-600_x_600.png",
+            "900x900": "/images/products/aston_martin/aston_martin-900_x_900.png"
+          },
+          "maximumRetailPrice": {
+            "amount": 1249,
+            "currency": "INR"
+          },
+          "sellingPrice": {
+            "amount": 936,
+            "currency": "INR"
+          },
+          "productBrand": "Motormax",
+          "inStock": true,
+          "isAvailable": true,
+          "codAvailable": true,
+          "emiAvailable": null,
+          "discountPercentage": 20,
+          "cashBack": null,
+          "offers": [],
+          "size": null,
+          "color": "",
+          "sizeUnit": "",
+          "sizeVariants": "[]",
+          "colorVariants": null
+        }
+      }
+    },
+    {
+      "productBaseInfo": {
+        "productIdentifier": {
+          "productId": "67c25a94-61b7-4781-8c7a-8f29d72c09c6"
+        },
+        "productAttributes": {
+          "title": "Iron Man Toy",
+          "productDescription": "A sleek suit design and technological upgrades let Tony Stark gear up as the Armored Avenger, Iron Man. With the Marvel Legends Series, both kid and adult Marvel fans can start a legendary collection of comic- and movie-based Marvel characters. This 6-inch Iron Man figure is highly articulated and features a movie-inspired design, making it another worthy addition to the Marvel Legends Series. Collect all figures in this Avengers Marvel Legends Series Build-a-Figure collection to assemble Thanos! Additional figures sold separately. Subject to availability.",
+          "imageUrls": {
+            "300x300": "/images/products/ironman/ironman-300_x_300.png",
+            "600x600": "/images/products/ironman/ironman-600_x_600.png",
+            "900x900": "/images/products/ironman/ironman-900_x_900.png"
+          },
+          "maximumRetailPrice": {
+            "amount": 1999,
+            "currency": "INR"
+          },
+          "sellingPrice": {
+            "amount": 1609,
+            "currency": "INR"
+          },
+          "productBrand": "RetailNet",
+          "inStock": true,
+          "isAvailable": true,
+          "codAvailable": true,
+          "emiAvailable": null,
+          "discountPercentage": 20,
+          "cashBack": null,
+          "offers": [],
+          "size": null,
+          "color": "",
+          "sizeUnit": "",
+          "sizeVariants": "[]",
+          "colorVariants": null
+        }
+      }
+    },
+    {
+      "productBaseInfo": {
+        "productIdentifier": {
+          "productId": "3fc5a74c-dc18-4b9f-86c9-8c343c6e916a"
+        },
+        "productAttributes": {
+          "title": "Rubiks Cube Toy",
+          "productDescription": "This Miss & Chief Cube is designed with smooth surfaces, this cube can be easily and quickly turned without much effort. Light weight and great hand feeling design. When your child solves this brain teaser, they should make sure that each side colour matches perfectly. Playing with this amazing brain teaser cube helps in the development of logical reasoning capabilities, thinking skills and problem solving skills. The puzzle cube magic cube is fit for all above aged 3 years old people and professional players.",
+          "imageUrls": {
+            "300x300": "/images/products/rubik_cube/rubik_cube-300_x_300.png",
+            "600x600": "/images/products/rubik_cube/rubik_cube-600_x_600.png",
+            "900x900": "/images/products/rubik_cube/rubik_cube-900_x_900.png"
+          },
+          "maximumRetailPrice": {
+            "amount": 329,
+            "currency": "INR"
+          },
+          "sellingPrice": {
+            "amount": 125,
+            "currency": "INR"
+          },
+          "productBrand": "Taxton",
+          "inStock": true,
+          "isAvailable": true,
+          "codAvailable": true,
+          "emiAvailable": null,
+          "discountPercentage": 20,
+          "cashBack": null,
+          "offers": [],
+          "size": null,
+          "color": "",
+          "sizeUnit": "",
+          "sizeVariants": "[]",
+          "colorVariants": null
+        }
+      }
+    },
+    {
+      "productBaseInfo": {
+        "productIdentifier": {
+          "productId": "c6a02c89-8301-415d-8fe5-60aafc70e768"
+        },
+        "productAttributes": {
+          "title": "Rubiks Cube Toy",
+          "productDescription": "Fire Mario comes complete with a fabulously detailed Fire Flower and flaming ball of fire effect piece that look like they just came out of the game. Set also includes interchangeable hands (x3) separate supports for Fire Mario and the Fire Flower and fire ball. Includes display stage. Product bears official Bluefin Distribution logo ensuring purchaser is receiving authentic licensed item from approved N American retailer. Bluefin Distribution products are tested and comply with all N American consumer product safety regulations and are eligible for consumer support",
+          "imageUrls": {
+            "300x300": "/images/products/supermario/supermario-300_x_300.png",
+            "600x600": "/images/products/supermario/supermario-600_x_600.png",
+            "900x900": "/images/products/supermario/supermario-900_x_900.png"
+          },
+          "maximumRetailPrice": {
+            "amount": 5425,
+            "currency": "INR"
+          },
+          "sellingPrice": {
+            "amount": 4110,
+            "currency": "INR"
+          },
+          "productBrand": "ShopUniverse",
+          "inStock": true,
+          "isAvailable": true,
+          "codAvailable": true,
+          "emiAvailable": null,
+          "discountPercentage": 20,
+          "cashBack": null,
+          "offers": [],
+          "size": null,
+          "color": "",
+          "sizeUnit": "",
+          "sizeVariants": "[]",
+          "colorVariants": null
+        }
+      }
+    }
+  ]
+}
